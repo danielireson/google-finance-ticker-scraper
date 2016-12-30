@@ -1,1 +1,4 @@
 .DS_STORE
+/vendor/
+last_run.txt
+.csv

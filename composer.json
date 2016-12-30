@@ -1,0 +1,8 @@
+{
+    "name": "danielireson/google-finance-ticker-scraper",
+    "autoload": {
+      "psr-4": {
+        "Classes\\":"classes/"
+      }
+    }
+}
